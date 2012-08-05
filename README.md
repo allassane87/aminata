@@ -4,4 +4,4 @@ C'est la première application pour le
 [*Tutoriel Ruby on Rails : Apprendre Rails par l'exemple*](http://railstutorial.org/) 
 de [Allassane on Rails](http://michaelhartl.com/).
 
-Allhamdou lilahi rabbil alamain !
+Ich werde Erfolg bekommen !
